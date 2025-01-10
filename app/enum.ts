@@ -7,5 +7,5 @@ export enum DIRECTION {
 
 export enum GRID_SIZE {
     WIDTH = 20,
-    HEIGHT = 20
+    HEIGHT = WIDTH
 }
